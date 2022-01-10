@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHubWorkSpace\\GitHubLZQ\\CoreAPIProject\\CoreAPIProject.csproj": {}
+    "D:\\GitHubWorkSpace\\GitHubProject\\GitHubLZQ\\CoreAPIProject\\CoreAPIProject.csproj": {}
   },
   "projects": {
-    "D:\\GitHubWorkSpace\\GitHubLZQ\\CoreAPIProject\\CoreAPIProject.csproj": {
+    "D:\\GitHubWorkSpace\\GitHubProject\\GitHubLZQ\\CoreAPIProject\\CoreAPIProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHubWorkSpace\\GitHubLZQ\\CoreAPIProject\\CoreAPIProject.csproj",
+        "projectUniqueName": "D:\\GitHubWorkSpace\\GitHubProject\\GitHubLZQ\\CoreAPIProject\\CoreAPIProject.csproj",
         "projectName": "CoreAPIProject",
-        "projectPath": "D:\\GitHubWorkSpace\\GitHubLZQ\\CoreAPIProject\\CoreAPIProject.csproj",
+        "projectPath": "D:\\GitHubWorkSpace\\GitHubProject\\GitHubLZQ\\CoreAPIProject\\CoreAPIProject.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHubWorkSpace\\GitHubLZQ\\CoreAPIProject\\obj\\",
+        "outputPath": "D:\\GitHubWorkSpace\\GitHubProject\\GitHubLZQ\\CoreAPIProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\安装的软件\\DX\\Components\\Offline Packages",

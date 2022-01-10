@@ -7,5 +7,9 @@ namespace CoreAPIProject
 {
     public class Class2
     {
+        public void show()
+        {
+
+        }
     }
 }
